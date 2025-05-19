@@ -28,7 +28,7 @@ def affine_encrypt(text, a, b):
 
     return encrypted
 
-plain_text = "VICKYAHMAD2023"
+plain_text = "RAIHANGAMING2025"
 a = 11
 b = 15
 
